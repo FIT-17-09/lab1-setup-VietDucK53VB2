@@ -4,20 +4,20 @@
 
 ## Công cụ
 
-- [x] Git đã cài và chạy được `git --version`.
-- [x] Docker đã cài và chạy được `docker --version`.
-- [x] Docker Compose đã cài và chạy được `docker compose version`.
-- [x] Node.js đã cài và chạy được `node --version`.
-- [x] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
+- [ ] Git đã cài và chạy được `git --version`.
+- [ ] Docker đã cài và chạy được `docker --version`.
+- [ ] Docker Compose đã cài và chạy được `docker compose version`.
+- [ ] Node.js đã cài và chạy được `node --version`.
+- [ ] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
 - [ ] VS Code đã cài.
 - [ ] Postman đã cài.
 
 ## Docker
 
-- [x] `docker run --rm hello-world` chạy thành công.
+- [ ] `docker run --rm hello-world` chạy thành công.
 - [ ] Đã chạy `scripts/pull_all` để pull image chuẩn.
-- [x] Đã chạy `scripts/smoke_test`.
-- [x] Mini-stack Docker Compose chạy được.
+- [ ] Đã chạy `scripts/smoke_test`.
+- [ ] Mini-stack Docker Compose chạy được.
 
 ## GitHub
 
@@ -28,7 +28,7 @@
 
 ## OBE Evidence
 
-- [x] `evidence/buoi-01/tool-versions.txt` có nội dung.
-- [x] `evidence/buoi-01/hello-world.txt` có nội dung.
-- [x] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
-- [x] Nếu còn lỗi, đã ghi vào `known-issues.md`.
+- [ ] `evidence/buoi-01/tool-versions.txt` có nội dung.
+- [ ] `evidence/buoi-01/hello-world.txt` có nội dung.
+- [ ] `evidence/buoi-01/smoke-test-result.txt` có nội dung.
+- [ ] Nếu còn lỗi, đã ghi vào `known-issues.md`.

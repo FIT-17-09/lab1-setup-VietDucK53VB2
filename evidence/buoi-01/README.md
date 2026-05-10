@@ -4,11 +4,11 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên: Trịnh Việt Đức
-- Mã sinh viên: 1771020167
-- Nhóm: 10
+- Họ tên:
+- Mã sinh viên:
+- Nhóm:
 - Vai trò dự kiến trong nhóm:
-- Hệ điều hành: Windows 11 Pro
+- Hệ điều hành:
 - Ghi chú:
 
 ## Các file minh chứng nên có
